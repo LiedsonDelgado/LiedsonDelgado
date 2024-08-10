@@ -14,16 +14,16 @@
 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.facebook.com/seu_perfil" target="_blank">
+  <a href="https://www.facebook.com/liedson.delgado.vrs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://www.twitter.com/seu_perfil" target="_blank">
+  <a href="https://www.twitter.com/Liedson_Delgado" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/seu_canal" target="_blank">
+  <a href="https://www.youtube.com/UCbQVNbNZps_LyYeDJ4ITNfw" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/seu_perfil" target="_blank">
+  <a href="https://www.instagram.com/liedson._.delgado/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
