@@ -20,7 +20,7 @@
   <a href="https://www.twitter.com/Liedson_Delgado" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/UCbQVNbNZps_LyYeDJ4ITNfw" target="_blank">
+  <a href="https://www.youtube.com/channel/UCbQVNbNZps_LyYeDJ4ITNfw" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/liedson._.delgado/" target="_blank">
