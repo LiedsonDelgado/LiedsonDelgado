@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-📫 Contact Me
+<h2>📫 Contact Me</h2>
 
 <p align="left">
   <a href="https://www.facebook.com/liedson.delgado.vrs" target="_blank">
