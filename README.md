@@ -22,7 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://discord.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/95/Discord_logo.svg" alt="Discord" width="40" height="40"/>
 </a>
   <a href="https://www.youtube.com/channel/UCbQVNbNZps_LyYeDJ4ITNfw" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40"/>
