@@ -24,7 +24,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/channels/1243267265542225970/1243267265542225975" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" alt="Discord" width="40" height="40"/>
 </a>
 
