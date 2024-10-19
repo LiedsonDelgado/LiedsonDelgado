@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/channel/UCbQVNbNZps_LyYeDJ4ITNfw" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052)" alt="YouTube" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/liedson._.delgado/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
