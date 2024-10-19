@@ -1,3 +1,4 @@
+<h2>Hi there,I'm Liedson Delgado</h2>
 <h1>🛠️ Languages and Tools</h1>
 
 <p align="left">
@@ -11,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-<h2>📫 Contact Me</h2>
+<h1>📫 Contact Me</h2>
 
 <p align="left">
   <a href="https://www.facebook.com/liedson.delgado.vrs" target="_blank">
