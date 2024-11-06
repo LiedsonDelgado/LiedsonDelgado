@@ -1,4 +1,5 @@
 <h2>Hi there I'm Liedson Delgado👨🏽‍💻</h2>
+<hr>
 <h1>🛠️ Languages and Tools</h1>
 
 <p align="left">
