@@ -6,7 +6,6 @@
         <div style="display: flex; gap: 10px;">
             <img src="img/icons8-python-48.png">
             <img src="img/icons8-c-48.png">
-            <img src="img/icons8-c-48.png">
             <img src="img/icons8-assembly-48.png">
             <img src="img/icons8-html-48.png">
             <img src="img/icons8-css-48.png">
