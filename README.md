@@ -3,7 +3,9 @@
     <hr>
     <hr>
         <h1>🛠️ Languages & Tools</h1>
-            <img src="img/icons8-python-48.png"> <img src="img/icons8-c-48.png">
+        <div style="display: flex; gap: 10px;">
+            <img src="img/icons8-python-48.png">
+            <img src="img/icons8-c-48.png">
             <img src="img/icons8-c-48.png">
             <img src="img/icons8-assembly-48.png">
             <img src="img/icons8-html-48.png">
@@ -11,6 +13,7 @@
             <img src="img/icons8-js-48.png">
             <img src="img/icons8-vs-code-48.png">
             <img src="img/icons8-github-50.png">
+        </div>
     <hr>
     <hr>
         <h1>📫 Contact Me</h1>
