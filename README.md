@@ -3,7 +3,7 @@
     <hr>
     <hr>
         <h1>🛠️ Languages & Tools</h1>
-            <img src="img/icons8-python-48.png">
+            <img src="img/icons8-python-48.png"> <img src="img/icons8-c-48.png">
             <img src="img/icons8-c-48.png">
             <img src="img/icons8-assembly-48.png">
             <img src="img/icons8-html-48.png">
