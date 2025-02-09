@@ -1,4 +1,4 @@
-<h1>Hi there i'm Liedson Delgado</h1>
+<h1>Hithere, i'm Liedson Delgado</h1>
         <h2>Software Engineer Student-UTA(ISECMAR)👨🏽‍💻</h2>
         <h1>🛠️ Languages & Tools</h1>
         <div style="display: flex; gap: 10px;">
