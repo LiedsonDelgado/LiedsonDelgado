@@ -1,6 +1,6 @@
 <h1>Hi there, i'm Liedson Delgado</h1>
         <h2>Software Engineer Student-UTA(ISECMAR)👨🏽‍💻</h2>
-        (https://github-readme-stats.vercel.app/api/top-langs/?username=</liedson__delgado>&layout=compact&langs_count=6&theme=dark)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=</liedson__delgado>&layout=compact&langs_count=6&theme=dark)
         <h1>🛠️ Languages & Tools</h1>
         <div style="display: flex; gap: 10px;">
             <img src="img/icons8-python-48.png">
