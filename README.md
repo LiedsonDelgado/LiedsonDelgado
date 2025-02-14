@@ -5,7 +5,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&theme=dark&hide_border=true&count_private=true&show_icons=true" width="400" height="250">
     </a>
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true" width="400" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true" width="400" height="150">
     </a>
 </div>
 
