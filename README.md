@@ -1,7 +1,13 @@
 <h2>Software Engineer Student-UTA(ISECMAR)👨🏽‍💻</h2>
 
-[![Liedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&theme=dark&hide_border=true&count_private=true&show_icons=true)](https://github.com/LiedsonDelgado/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true)
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/LiedsonDelgado/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&theme=dark&hide_border=true&count_private=true&show_icons=true" width="400">
+    </a>
+    <a href="https://github.com/LiedsonDelgado/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true" width="400">
+    </a>
+</div>
 
 <h1>🛠️ Languages & Tools</h1>
 <div style="display: flex; gap: 10px;">
