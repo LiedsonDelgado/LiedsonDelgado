@@ -1,15 +1,16 @@
-<h1>Hi there,i'm Liedson Delgado</h1>
-<h2>Software Engineer Student-UTA(ISECMAR)👨🏽‍💻</h2>
+<h1>Hi there, I'm Liedson Delgado</h1>
+<h2>Software Engineer Student - UTA (ISECMAR) 👨🏽‍💻</h2>
 
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&theme=dark&hide_border=true&count_private=true&show_icons=true" width="395">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true" width="300">
+        <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" width="395">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=6&theme=dark&hide_border=true&include_java=true" width="300">
     </a>
 </div>
 
 <h1>🛠️ Languages & Tools</h1>
 <div style="display: flex; gap: 10px;">
+    <img src="img/icons8-java-48.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-assembly-48.png" width="50" height="50">
     <img src="img/icons8-html-48.png" width="50" height="50">
