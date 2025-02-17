@@ -10,7 +10,6 @@
 
 <h1>🛠️ Languages & Tools</h1>
 <div style="display: flex; gap: 10px;">
-    <img src="img/icons8-java-48.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-assembly-48.png" width="50" height="50">
     <img src="img/icons8-html-48.png" width="50" height="50">
