@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Liedson Delgado</h1>
-<h2>Software Engineer Student - UTA (ISECMAR) 👨🏽‍💻</h2>
+<h2>Software Engineer Student - UTA (ISECMAR)</h2>
 
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
