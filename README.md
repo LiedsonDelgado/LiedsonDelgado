@@ -1,5 +1,5 @@
-<h1>Hi there, I'm Liedson Delgado</h1>
-<h2>Software Engineer Student - UTA (ISECMAR)</h2>
+<h2>Hi there, I'm Liedson Delgado</h2>
+<h3>Software Engineer Student - UTA (ISECMAR)</h3>
 
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
@@ -8,7 +8,7 @@
     </a>
 </div>
 
-<h1>🛠️ Languages & Tools</h1>
+<h2>🛠️ Languages & Tools</h2>
 <div style="display: flex; gap: 10px;">
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
@@ -19,7 +19,7 @@
     <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
 
-<h1>📫 Contact Me</h1>
+<h2>📫 Contact Me</h2>
     <a href="https://x.com/Liedson_Delgado"> <img src="img/icons8-x-50.png" width="50" height="50"> </a>
     <a href="https://www.facebook.com/liedson.delgado.vrs"> <img src="img/icons8-facebook-48.png" width="50" height="50"> </a>
     <a href="https://www.instagram.com/liedson._.delgado/"> <img src="img/icons8-instagram-48.png" width="50" height="50"> </a>
