@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&rank_icon=github&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" width="420">
+        <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&rank_icon=github&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" width="425">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=7&theme=dark&hide_border=true&include_all_commits=true" width="280">
     </a>
 </div>
