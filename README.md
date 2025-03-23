@@ -18,8 +18,8 @@
     <img src="img/icons8-html-48.png" width="50" height="50">
     <img src="img/icons8-css-48.png" width="50" height="50">
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
-    <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/intellij-idea.png" width="50" height="50">
+    <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
 
 <h2>💻 Operating Systems</h2>
