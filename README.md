@@ -3,6 +3,7 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=blue&style=flat" alt="liedson_delgado"/>
     <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects" alt="last commit in repo/pp"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt=""/>
 </p>
 
 <div style="display: flex; justify-content: center;">
