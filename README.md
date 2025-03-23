@@ -2,8 +2,8 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=4900ff&style=flat" alt="liedson_delgado"/>
-    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=00ffb2" alt="last_commit_in_repo/pp"/>
-    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/school_projects-UTA?color=00ff64" alt="last_commit_in_repo/spUTA"/>
+    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=00bc78" alt="last_commit_in_repo/pp"/>
+    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/school_projects-UTA?color=00c14c" alt="last_commit_in_repo/spUTA"/>
 </p>
 
 <div style="display: flex; justify-content: center;">
