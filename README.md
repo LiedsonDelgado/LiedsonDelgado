@@ -1,5 +1,5 @@
-<p display:flex flex-diretion:column align="left" height="35px" width="35px">
-    <h2>Hi there, I'm Liedson Delgado <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=4900ff&style=flat" alt="liedson_delgado"/></h2>
+<p align="left" height="35px" width="35px">
+    <h2>Hi there, I'm Liedson Delgado</h2>
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=4900ff&style=flat" alt="liedson_delgado"/>
 </p>
 
