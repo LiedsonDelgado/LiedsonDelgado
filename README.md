@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Liedson Delgado</h2>
 
-<p align="left" height="15px" width="15px">
+<p align="left" height="15px" width="35px">
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=4900ff&style=flat" alt="liedson_delgado"/>
 </p>
 
