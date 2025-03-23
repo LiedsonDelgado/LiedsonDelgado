@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Liedson Delgado</h2>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=#4900ff&style=flat" alt="liedson_delgado"/>
+    <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=rgb(73, 0, 255)&style=flat" alt="liedson_delgado"/>
     <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=blue" alt="last_commit_in_repo/pp"/>
     <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/school_projects-UTA?color=blue" alt="last_commit_in_repo/spUTA"/>
 </p>
