@@ -10,7 +10,6 @@
 
 <h2>🛠️ Languages & Tools</h2>
 <div style="display: flex; gap: 10px;">
-    https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-js-48.png" width="50" height="50">
@@ -19,6 +18,9 @@
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
+
+<h2>Operating System</h2>
+    [![Blog](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
 
 <h2>📫 Contact Me</h2>
     <a href="https://x.com/Liedson_Delgado"> <img src="img/icons8-x-50.png" width="50" height="50"> </a>
