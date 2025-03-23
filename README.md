@@ -1,8 +1,8 @@
 <h2>Hi there, I'm Liedson Delgado</h2>
 
-<p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=blue&style=flat" alt="liedson_delgado"/>
-    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=blue" alt="last commit in repo/pp"/>
+    <img src="https://img.shields.io/github/last-commit/LiedsonDelgado/personal_projects?color=blue" alt="last_commit_in_repo/pp"/>
 </p>
 
 <div style="display: flex; justify-content: center;">
