@@ -10,6 +10,7 @@
 
 <h2>🛠️ Languages & Tools</h2>
 <div style="display: flex; gap: 10px;">
+    https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-js-48.png" width="50" height="50">
