@@ -1,6 +1,8 @@
 <h2>Hi there, I'm Liedson Delgado</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=0eb421&style=flat" alt="liedson_delgado" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20views&color=0eb421&style=flat" alt="liedson_delgado"/>
+</p>
 
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
