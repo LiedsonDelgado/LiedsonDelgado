@@ -1,5 +1,7 @@
 <h2>Hi there, I'm Liedson Delgado</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=liedson_delgado&label=Profile%20views&color=0eb421&style=flat" alt="liedson_delgado" /> </p>
+
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&rank_icon=github&theme=gotham&hide_border=true&count_private=true&show_icons=true&include_all_commits=false" width="425">
