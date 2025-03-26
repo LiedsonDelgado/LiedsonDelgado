@@ -37,4 +37,4 @@
     <a href="https://discord.com/channels/1243267265542225970/1243267265542225975"> <img src="img/icons8-discord-48.png" width="50" height="50"> </a>
 
 <h2>🌐 My Portfolio WebSite</h2>
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio_website" />
+    <img src="https://img.shields.io/badge/https://liedsondelgado.github.io/?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio_website" />
