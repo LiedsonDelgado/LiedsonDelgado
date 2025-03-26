@@ -19,6 +19,7 @@
     <img src="img/icons8-css-48.png" width="50" height="50">
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/intellij-idea.png" width="50" height="50">
+    <img src="img/my-sql.png" width="50" height="50">
     <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
 
