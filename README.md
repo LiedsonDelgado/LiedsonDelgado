@@ -39,6 +39,6 @@
     <a href="https://discord.com/channels/1243267265542225970/1243267265542225975"> <img src="img/icons8-discord-48.png" width="50" height="50"> </a>
 
 <h2>🌐 My Portfolio WebSite</h2>
-<a href="https://liedsondelgado.github.io/" target="_blank">
+<a href="https://liedsondelgado.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
