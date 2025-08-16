@@ -21,6 +21,7 @@
     <img src="img/mysql.png" width="50" height="50">
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/intellij-idea.png" width="50" height="50">
+    <img src="img/pycharm-idea.png" width="50" height="50">
     <img src="img/codeblocks.png" width="50" height="50">
     <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
