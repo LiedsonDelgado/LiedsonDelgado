@@ -11,7 +11,7 @@
 </div>
 
 <h2>🛠️ Languages & Tools</h2>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10;">
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-python-48.png" width="50" height="50">
@@ -27,7 +27,7 @@
 </div>
 
 <h2>💻 Operating Systems</h2>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10;">
     <img src="img/windows-11.png" width="50" height="50">
     <img src="img/kali-linux.png" width="50" height="50">
 </div>
