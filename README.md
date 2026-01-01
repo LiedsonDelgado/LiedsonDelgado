@@ -34,11 +34,11 @@
 
 <h2>📫 Contact Me</h2>
     <a href="https://x.com/Liedson_Delgado"> <img src="img/icons8-x-50.png" width="50" height="50"> </a>
+    <a href="https://www.linkedin.com/in/liedson-delgado-740192336"> <img src="img/icons8-linkedin-48.png" width="50" height="50"> </a>
     <a href="https://www.facebook.com/liedson.delgado.vrs"> <img src="img/icons8-facebook-48.png" width="50" height="50"> </a>
     <a href="https://www.instagram.com/liedson._.delgado/"> <img src="img/icons8-instagram-48.png" width="50" height="50"> </a>
     <a href="https://www.youtube.com/@ghost_spectrumX31"> <img src="img/icons8-youtube-48.png" width="50" height="50"> </a>
     <a href="https://discord.com/channels/1243267265542225970/1243267265542225975"> <img src="img/icons8-discord-48.png" width="50" height="50"> </a>
-    <a href=""> <img src="img/icons8-linkedin-48.png" width="50" height="50"> </a>
 
 <h2>🌐 My Portfolio WebSite</h2>
 <a href="https://liedsondelgado.github.io" target="_blank">
