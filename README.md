@@ -3,12 +3,14 @@
     <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20Views&color=4900ff&style=flat" alt="liedson_delgado_pv"/>
 </p>
 
-<div style="display: flex; justify-content: center;">
+<!--
+    <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&rank_icon=github&theme=gotham&hide_border=true&count_private=true&show_icons=true&include_all_commits=false" width="425">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=8&theme=gotham&hide_border=true&include_all_commits=true" width="280">
     </a>
 </div>
+-->
 
 <h2>🛠️ Languages & Tools</h2>
 <div style="display: flex; gap: 10;">
