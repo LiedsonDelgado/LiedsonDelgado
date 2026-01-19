@@ -1,6 +1,8 @@
 <p align="left" height="35px" width="35px">
-    <h2>Hello there, I'm Liedson Delgado 👋</h2>
-    <img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20Views&color=4900ff&style=flat" alt="liedson_delgado_pv"/>
+    <p align="left">
+      <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&width=500&lines=Hi,+I'm+Liedson+Delgado" alt="Typing SVG" /></h2>
+    </p>
+<img src="https://komarev.com/ghpvc/?username=LiedsonDelgado&label=Profile%20Views&color=4900ff&style=flat" alt="liedson_delgado_pv"/>
 </p>
 
 <!--
