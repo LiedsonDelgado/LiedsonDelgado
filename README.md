@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/LiedsonDelgado/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=LiedsonDelgado&rank_icon=github&theme=gotham&hide_border=true&count_private=true&show_icons=true&include_all_commits=false" width="425">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=15&theme=gotham&hide_border=true&include_all_commits=true" width="280">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiedsonDelgado&layout=compact&langs_count=15&theme=gotham&hide_border=true&include_all_commits=true" width="248">
     </a>
 </div>
 
