@@ -17,8 +17,8 @@
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-python-48.png" width="50" height="50">
-    <img src="img/react-50" width="50" height="50">
-    <img src="img/typescript-48" width="50" height="50">
+    <img src="img/react-50.png" width="50" height="50">
+    <img src="img/typescript-48.png" width="50" height="50">
     <img src="img/icons8-js-48.png" width="50" height="50">
     <img src="img/icons8-html-48.png" width="50" height="50">
     <img src="img/icons8-css-48.png" width="50" height="50">
@@ -26,7 +26,6 @@
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/intellij-idea.png" width="50" height="50">
     <img src="img/pycharm-idea.png" width="43" height="43">
-    <img src="img/codeblocks.png" width="50" height="50">
     <img src="img/icons8-figma-50.png" width="50" height="50">
 </div>
 
