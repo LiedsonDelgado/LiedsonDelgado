@@ -16,6 +16,7 @@
 <div style="display: flex; gap: 10;">
     <img src="img/icons8-java-50.png" width="50" height="50">
     <img src="img/icons8-c-48.png" width="50" height="50">
+    <img src="img/icons8-c++-48.png" width="50" height="50">
     <img src="img/icons8-python-48.png" width="50" height="50">
     <img src="img/react-50.png" width="50" height="50">
     <img src="img/typescript-48.png" width="50" height="50">
