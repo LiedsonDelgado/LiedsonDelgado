@@ -18,6 +18,7 @@
     <img src="img/icons8-c-48.png" width="50" height="50">
     <img src="img/icons8-c++-48.png" width="50" height="50">
     <img src="img/icons8-python-48.png" width="50" height="50">
+    <img src="img/react-50.png" width="50" height="50">
     <img src="img/mysql.png" width="50" height="50">
     <img src="img/icons8-vs-code-48.png" width="50" height="50">
     <img src="img/intellij-idea.png" width="50" height="50">
